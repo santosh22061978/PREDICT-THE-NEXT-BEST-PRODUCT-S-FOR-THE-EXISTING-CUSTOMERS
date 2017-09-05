@@ -10,3 +10,18 @@ Optimizing business processes
 The “Next Best Offer” strategy starts with knowledge about the individual customer so that you know which product is the right thing to offer to that customer. If customer level data is analyzed well and correct approach to offer products is taken, benefits customers to get the financial products they want, and the bank to develop a deeper relationship with the customer. This means that product offerings are tailored for each customer, rather than single products being marketed through large scale and costly outbound campaigns.
 As a Next Best Action solution adds value to every customer decision, its bottom line contribution goes up with both the number of interactions and their complexity.
 The NBA model provides a decision engine that guides each inbound and outbound customer action and communication for every channel and line of business.
+
+We have conducted our analysis in R Environment. Data visualization is done with tableau and R. Following steps were      executed.
+Data Integration & Treatment in R
+Dependent Variable Analysis
+Missing values & Outliers Treatment
+Redundant Variables
+Bi-Variate Analysis in R and tableau
+Dummy Variable Creation for categorical variables
+Chi square test for each categorical variable against the target variables.
+Sampling- Test and Train Data
+Random Forest Modelling in R
+Statistical Analysis
+AUC, KS, Gini index and Lift Charts
+Validation
+
